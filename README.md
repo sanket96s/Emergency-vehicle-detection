@@ -1,11 +1,5 @@
 🚨 **Emergency-Vehicle-Detection** 🚨
 
-**before detecting**
-<video src = "https://github.com/sanket96s/Emergency-Vehicle-Detection/assets/109816069/f96a5785-2b02-4091-99fd-cb10e5fd227d" width=180 />
-
-**after detecting**<br>
-<video src = "https://github.com/sanket96s/Emergency-Vehicle-Detection/assets/109816069/1ae2b669-3dba-4204-8f0d-5ee44b141752" width=180 />
-
 ### Let's train a custom model using yolov8m object detection model library to detect emergency vehicles from the Given Input Image, Video, or Webcam.
 
 **Prerequisites:**
